@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838420877540",
+    "project_id": "hidden-analyzer-425514-u8",
+    "storage_bucket": "hidden-analyzer-425514-u8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838420877540:android:70541e86942ee71ddd9cf1",
+        "android_client_info": {
+          "package_name": "com.example.fireb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838420877540-qq9kp3bft85vl533gmdrdr8bcguffsvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0YecNa0ITqZBUlU2alxWgfu_X_jWylYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838420877540-qq9kp3bft85vl533gmdrdr8bcguffsvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
